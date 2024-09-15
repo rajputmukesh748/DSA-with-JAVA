@@ -1,12 +1,22 @@
 # DSA with JAVA
 
-## Basic Pattern Problems
+### Basic Pattern Problems
 
-> Solid Rectangle Pattern
+> 1. Solid Rectangle Pattern
 ```
     * * * * *
     * * * * *
     * * * * *
     * * * * *
+    * * * * *
+```
+
+
+> 2. HollowRectangle
+```
+    * * * * *
+    *       *
+    *       *
+    *       *
     * * * * *
 ```
