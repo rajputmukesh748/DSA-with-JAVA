@@ -2,7 +2,7 @@
 
 ### Basic Pattern Problems
 
->1. Solid Rectangle ![Done](path_to_image/done_icon.png)
+>1. Solid Rectangle <img src="assets/done.png" alt="Done" width=15 height=15/>
 ```
 * * * * *
 * * * * *
@@ -11,7 +11,7 @@
 * * * * *
 ```
 
->2. Hollow Rectangle
+>2. Hollow Rectangle <img src="assets/done.png" alt="Done" width=15 height=15/>
 ```
 * * * * *
 *       *
@@ -20,7 +20,7 @@
 * * * * *
 ```
 
->3. Half Pyramid
+>3. Half Pyramid <img src="assets/done.png" alt="Done" width=15 height=15/>
 ```
 *
 * *
@@ -28,7 +28,7 @@
 * * * *
 ```
 
->4. Inverted Half Pyramid
+>4. Inverted Half Pyramid <img src="assets/done.png" alt="Done" width=15 height=15/>
 ```
 * * * *
 * * *
