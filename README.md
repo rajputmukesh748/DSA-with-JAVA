@@ -2,7 +2,7 @@
 
 ### Basic Pattern Problems
 
->1. Solid Rectangle
+>1. Solid Rectangle ![Done](path_to_image/done_icon.png)
 ```
 * * * * *
 * * * * *
