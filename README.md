@@ -44,7 +44,7 @@
 * * * *
 ```
 
->6. Half Pyramid with Numbers
+>6. Half Pyramid with Numbers <img src="assets/done.png" alt="Done" width=15 height=15/>
 ```
 1
 1 2

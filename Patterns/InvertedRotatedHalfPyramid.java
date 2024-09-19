@@ -1,6 +1,6 @@
 package Patterns;
 
-import java.util.*;;
+import java.util.*;
 
 /**
  * InvertedRotatedHalfPyramid
