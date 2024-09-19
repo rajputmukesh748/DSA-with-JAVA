@@ -36,7 +36,7 @@
 *
 ```
 
->5. Inverted & Rotated Half Pyramid
+>5. Inverted & Rotated Half Pyramid <img src="assets/done.png" alt="Done" width=15 height=15/>
 ```
       *
     * *
