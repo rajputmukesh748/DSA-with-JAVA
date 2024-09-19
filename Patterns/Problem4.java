@@ -2,22 +2,22 @@ package Patterns;
 
 import java.util.Scanner;
 
-// *
-// * *
-// * * *
 // * * * *
+// * * *
+// * *
+// *
 
-public class HalfPyramid {
+public class Problem4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.err.print("Enter number for print Half Pyramid: ");
+        System.out.print("Enter number for print Inverted Half Pyramid: ");
         int number = scanner.nextInt();
 
         for(int i=0; i<number; i++){
-             for(int j=0; j<=i; j++){
+            for(int j=number; j>i; j--){
                 System.out.print("* ");
-             }
-             System.out.println();
+            }
+            System.out.println();
         }
     }
 }

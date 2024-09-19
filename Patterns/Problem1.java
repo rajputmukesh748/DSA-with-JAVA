@@ -8,7 +8,7 @@ package Patterns;
 
 import java.util.*;
 
-class SolidRectangle {
+class Problem1 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter how many number of rows you want : ");

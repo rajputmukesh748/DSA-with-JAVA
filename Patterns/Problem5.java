@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * InvertedRotatedHalfPyramid
  */
-public class InvertedRotatedHalfPyramid {
+public class Problem5 {
 
     public static void main(String[] args) {
 

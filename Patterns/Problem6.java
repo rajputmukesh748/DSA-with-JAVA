@@ -11,7 +11,7 @@ import java.util.*;
     1 2 3 4 5
 */
 
-public class HalfPyramidWithNumbers {
+public class Problem6 {
     public static void main(String[] args) {
            Scanner scanner = new Scanner(System.in);
            System.err.print("Enter Number:- ");
