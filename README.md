@@ -110,8 +110,8 @@
 
 <br>
 ### Excercise 1
-```
 
+```
 1. Enter 3 numbers from the user & make a function to print their average.
 
 2. Write a function to print the sum of all odd numbers from 1 to n.
@@ -134,7 +134,6 @@ eligible to vote.
 10. Write a program to print Fibonacci series of n terms where n is input by user :
 0 1 1 2 3 5 8 13 21 ..... 
 In the Fibonacci series, a number is the sum of the previous 2 numbers that came before it.
-
 ```
 
 
